@@ -1,0 +1,55 @@
+/* style.css for making specific style changes */
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	}
+
+h1,
+h2,
+h4 {
+	font-family: 'Lato', sans-serif;
+	
+	}
+
+h1 {
+	font-weight: 100;
+	}
+
+h3 {
+	font-family: 'Lato', sans-serif;
+	color: #BCBBBB;
+	font-weight: 300;
+	}
+
+hr {margin-bottom: 0px;
+    margin-top: 20px;
+    border-top: 4px solid #444;
+
+}
+
+/* from http://codeitdown.com/css-round-buttons/ */
+.round-button {
+    display:block;
+    width:100px;
+    height:100px;
+    line-height:100px;
+    border: 3px solid #f8981c;
+    border-radius: 50%;
+/*Requirement Color */
+    color:#F8981C;
+    text-align:center;
+    font-family: 'Droid Serif', serif;
+	font-size:36px;
+	letter-spacing: 5px;
+    }
+
+.footer {
+  padding: 15px 0;
+  margin: 25px 0;
+  text-align: center;
+  background-color: #0096BC ;
+}
+

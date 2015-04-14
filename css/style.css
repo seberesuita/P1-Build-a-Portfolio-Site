@@ -1,4 +1,3 @@
-/* style.css for making specific style changes */
 
 * {
 	-webkit-box-sizing: border-box;
@@ -47,9 +46,10 @@ hr {margin-bottom: 0px;
     }
 
 .footer {
+  background-color: #0096BC ;
   padding: 15px 0;
   margin: 25px 0;
   text-align: center;
-  background-color: #0096BC ;
+  
 }
 
